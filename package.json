@@ -1,10 +1,14 @@
 {
   "name": "brunch-preprocessor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Adds C-style preprocessor support to brunch compilations",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:walts81/brunch-preprocessor.git"
   },
   "author": "Josh Walters",
   "license": "MIT",
